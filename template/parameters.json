@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {
+      "value": "eastus2"
+    },
+    "workspaceName": {
+      "value": "ds-aml-ws-test"
+    },
+    "computeInstanceName": {
+      "value": "ds-aml-compute"
+    },
+    "vmSize": {
+      "value": "Standard_DS1_v2"
+    },
+    "sshAccess": {
+      "value": "Disabled"
+    },
+    "disableLocalAuth": {
+      "value": true
+    },
+    "rootAccess": {
+      "value": true
+    },
+    "idleTimeBeforeShutdown": {
+      "value": "PT60M"
+    },
+    "enableNodePublicIp": {
+      "value": false
+    }
+  }
+}
