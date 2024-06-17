@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sirip/Documents/azure-machine-learning/azure-ml-labs/Labs/07/mlruns/923471897091529843/b8d285d900e043eeb37fc5a349902777/artifacts
+end_time: 1718639567583
+entry_point_name: ''
+experiment_id: '923471897091529843'
+lifecycle_stage: active
+run_id: b8d285d900e043eeb37fc5a349902777
+run_name: colorful-bass-664
+run_uuid: b8d285d900e043eeb37fc5a349902777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718639567532
+status: 3
+tags: []
+user_id: sirip

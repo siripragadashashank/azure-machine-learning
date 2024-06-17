@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sirip/Documents/azure-machine-learning/azure-ml-labs/Labs/07/mlruns/923471897091529843/057a66b0308a4bd393a168e6d92066a9/artifacts
+end_time: 1718640084713
+entry_point_name: ''
+experiment_id: '923471897091529843'
+lifecycle_stage: active
+run_id: 057a66b0308a4bd393a168e6d92066a9
+run_name: polite-calf-873
+run_uuid: 057a66b0308a4bd393a168e6d92066a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718640084559
+status: 3
+tags: []
+user_id: sirip
